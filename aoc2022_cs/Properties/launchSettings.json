@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Advent2022": {
+      "commandName": "Project",
+      "workingDirectory": "C:\\Users\\aliquis\\Documents\\School\\Miscellaneous\\AdventOfCode\\2022_CSharp"
+    }
+  }
+}
